@@ -163,9 +163,11 @@ L7大运流年 > 外格行运
 
 > 以上分析由韦千里命理技能包自动生成，基于《千里命稿》与《八字提要》原著断法规则。
 
-![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg)
+| 赞赏码 | 盘叔微信 |
+|:---:|:---:|
+| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
 
-**如果觉得有用，欢迎赞赏支持，您的支持是我持续更新命理AI技能的动力。**
+**如果觉得有用，欢迎赞赏支持；想交流命理，扫码添加盘叔微信。**
 
 ---
 
