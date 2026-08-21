@@ -60,10 +60,12 @@
 
 本仓库内容由韦千里《千里命稿》《八字提要》（民国著作，公有领域）整理与蒸馏生成，供学习研究使用。
 
-## 赞赏
+## 赞赏与联系
 
-如果这个技能包对你有帮助，欢迎请盘叔喝杯茶。
+如果这个技能包对你有帮助，欢迎请盘叔喝杯茶。想交流命理，扫码添加盘叔微信。
 
-![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg)
+| 赞赏码 | 盘叔微信 |
+|:---:|:---:|
+| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
 
 公众号：【野生你盘叔】 出品
